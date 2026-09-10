@@ -1,0 +1,101 @@
+﻿Data,Produto,Cidade,Quantidade,Preco_Unitario,Total_Venda
+2026-02-21,Caneta,Belo Horizonte,5,15.0,75.0
+2026-04-03,Caderno,Rio de Janeiro,5,25.0,125.0
+2026-01-15,Estojo,Belo Horizonte,7,80.0,560.0
+2026-03-13,Estojo,Rio de Janeiro,9,25.0,225.0
+2026-03-02,Estojo,São Paulo,9,15.0,135.0
+2026-01-21,Calculadora,São Paulo,3,25.0,75.0
+2026-03-24,Caderno,São Paulo,3,120.0,360.0
+2026-03-28,Calculadora,Curitiba,3,25.0,75.0
+2026-03-16,Calculadora,São Paulo,4,3.5,14.0
+2026-03-16,Caderno,Rio de Janeiro,8,3.5,28.0
+2026-03-29,Caderno,São Paulo,6,120.0,720.0
+2026-04-10,Caderno,Belo Horizonte,8,15.0,120.0
+2026-01-24,Caderno,Belo Horizonte,1,3.5,3.5
+2026-01-03,Estojo,Curitiba,8,80.0,640.0
+2026-01-22,Mochila,Belo Horizonte,4,3.5,14.0
+2026-02-22,Mochila,Rio de Janeiro,1,3.5,3.5
+2026-01-02,Caderno,São Paulo,8,15.0,120.0
+2026-03-29,Mochila,Curitiba,4,25.0,100.0
+2026-01-30,Mochila,São Paulo,6,3.5,21.0
+2026-02-07,Caderno,São Paulo,8,120.0,960.0
+2026-01-02,Mochila,Rio de Janeiro,4,25.0,100.0
+2026-03-05,Calculadora,Belo Horizonte,3,80.0,240.0
+2026-03-01,Caneta,Belo Horizonte,9,15.0,135.0
+2026-01-21,Caneta,São Paulo,3,80.0,240.0
+2026-02-02,Caderno,Curitiba,9,25.0,225.0
+2026-03-17,Estojo,Belo Horizonte,2,25.0,50.0
+2026-02-27,Caderno,Curitiba,2,25.0,50.0
+2026-01-22,Estojo,Belo Horizonte,2,80.0,160.0
+2026-03-30,Caneta,Curitiba,6,25.0,150.0
+2026-02-18,Caderno,Rio de Janeiro,3,80.0,240.0
+2026-04-01,Calculadora,Curitiba,9,25.0,225.0
+2026-02-28,Mochila,Rio de Janeiro,4,120.0,480.0
+2026-02-11,Estojo,Rio de Janeiro,1,25.0,25.0
+2026-04-02,Mochila,Curitiba,4,80.0,320.0
+2026-03-01,Mochila,Rio de Janeiro,1,3.5,3.5
+2026-03-21,Caderno,São Paulo,5,25.0,125.0
+2026-01-15,Mochila,Rio de Janeiro,4,3.5,14.0
+2026-03-03,Calculadora,Belo Horizonte,8,120.0,960.0
+2026-03-03,Mochila,Curitiba,8,15.0,120.0
+2026-02-16,Caderno,São Paulo,7,120.0,840.0
+2026-03-03,Calculadora,Curitiba,3,25.0,75.0
+2026-02-20,Caneta,Belo Horizonte,1,3.5,3.5
+2026-02-24,Mochila,Belo Horizonte,1,3.5,3.5
+2026-03-05,Caderno,Belo Horizonte,3,80.0,240.0
+2026-01-03,Caneta,Rio de Janeiro,6,3.5,21.0
+2026-02-20,Caneta,Rio de Janeiro,7,80.0,560.0
+2026-01-07,Estojo,Curitiba,6,15.0,90.0
+2026-01-21,Calculadora,Curitiba,6,25.0,150.0
+2026-03-14,Mochila,São Paulo,6,80.0,480.0
+2026-02-08,Caderno,São Paulo,3,15.0,45.0
+2026-01-18,Estojo,Curitiba,6,3.5,21.0
+2026-01-04,Calculadora,Rio de Janeiro,8,3.5,28.0
+2026-03-30,Estojo,Belo Horizonte,2,15.0,30.0
+2026-03-01,Calculadora,Curitiba,5,3.5,17.5
+2026-01-14,Calculadora,São Paulo,1,15.0,15.0
+2026-01-09,Mochila,Rio de Janeiro,1,80.0,80.0
+2026-03-31,Calculadora,Curitiba,5,80.0,400.0
+2026-02-22,Estojo,Curitiba,3,15.0,45.0
+2026-01-02,Calculadora,Rio de Janeiro,4,80.0,320.0
+2026-03-25,Mochila,Curitiba,3,80.0,240.0
+2026-04-02,Mochila,Rio de Janeiro,1,80.0,80.0
+2026-03-01,Estojo,Belo Horizonte,1,120.0,120.0
+2026-03-12,Caneta,Rio de Janeiro,5,25.0,125.0
+2026-02-13,Caneta,Rio de Janeiro,6,3.5,21.0
+2026-01-08,Calculadora,Rio de Janeiro,3,120.0,360.0
+2026-02-16,Caderno,Curitiba,9,80.0,720.0
+2026-02-04,Calculadora,Curitiba,5,15.0,75.0
+2026-03-19,Estojo,Rio de Janeiro,8,80.0,640.0
+2026-03-22,Estojo,Curitiba,1,25.0,25.0
+2026-02-05,Estojo,São Paulo,5,80.0,400.0
+2026-02-19,Estojo,São Paulo,3,15.0,45.0
+2026-01-04,Estojo,Curitiba,1,25.0,25.0
+2026-01-02,Mochila,Curitiba,4,80.0,320.0
+2026-01-06,Caneta,Rio de Janeiro,5,25.0,125.0
+2026-02-23,Estojo,Belo Horizonte,7,3.5,24.5
+2026-01-04,Caderno,Curitiba,1,3.5,3.5
+2026-02-23,Caderno,São Paulo,3,80.0,240.0
+2026-04-03,Caderno,Rio de Janeiro,2,25.0,50.0
+2026-03-04,Caderno,Curitiba,9,15.0,135.0
+2026-01-18,Mochila,São Paulo,6,80.0,480.0
+2026-03-31,Caderno,São Paulo,3,3.5,10.5
+2026-02-13,Estojo,Belo Horizonte,8,3.5,28.0
+2026-02-03,Calculadora,Rio de Janeiro,8,80.0,640.0
+2026-03-15,Caderno,Rio de Janeiro,2,25.0,50.0
+2026-03-03,Mochila,Belo Horizonte,6,3.5,21.0
+2026-04-10,Mochila,Belo Horizonte,7,25.0,175.0
+2026-01-14,Caderno,Rio de Janeiro,2,3.5,7.0
+2026-04-05,Calculadora,Rio de Janeiro,2,3.5,7.0
+2026-02-17,Caderno,Curitiba,1,120.0,120.0
+2026-01-15,Mochila,Curitiba,8,3.5,28.0
+2026-03-13,Caneta,Belo Horizonte,1,15.0,15.0
+2026-03-19,Estojo,Curitiba,9,80.0,720.0
+2026-03-28,Mochila,São Paulo,6,80.0,480.0
+2026-03-03,Caderno,Curitiba,7,25.0,175.0
+2026-02-09,Estojo,Curitiba,7,3.5,24.5
+2026-03-26,Caderno,São Paulo,3,15.0,45.0
+2026-03-21,Caderno,Belo Horizonte,2,25.0,50.0
+2026-03-23,Caneta,São Paulo,9,120.0,1080.0
+2026-02-22,Estojo,Curitiba,8,25.0,200.0
+2026-01-24,Estojo,Belo Horizonte,7,25.0,175.0

@@ -1,0 +1,151 @@
+﻿ID_Funcionario,Departamento,Cargo,Salario,Tempo_Casa_Anos,Satisfacao_Trabalho
+1,Marketing,Analista de Mídia,3725,1,1
+2,Operações,Analista de Processos,8393,5,2
+3,Financeiro,Contador,10522,7,1
+4,Operações,Assistente de Logística,12651,6,1
+5,Operações,Assistente de Logística,9100,5,1
+6,Recursos Humanos,Recrutador,11496,4,5
+7,Financeiro,Assistente,12507,2,3
+8,Financeiro,Contador,11183,4,1
+9,Financeiro,Analista Financeiro,8142,3,3
+10,Operações,Assistente de Logística,11179,1,4
+11,Marketing,Analista de Mídia,11708,8,2
+12,Financeiro,Assistente,10839,5,4
+13,Operações,Analista de Processos,12935,4,4
+14,Recursos Humanos,Analista de DP,5705,8,5
+15,Marketing,Copywriter,4569,7,2
+16,Recursos Humanos,Recrutador,6944,2,4
+17,Marketing,Designer,4560,1,4
+18,Operações,Assistente de Logística,5827,4,2
+19,Tecnologia,Analista de Dados,6920,8,2
+20,Marketing,Copywriter,3801,2,4
+21,Recursos Humanos,Analista de DP,4106,3,2
+22,Operações,Analista de Processos,6670,1,4
+23,Marketing,Copywriter,4199,1,4
+24,Tecnologia,Desenvolvedor,8588,3,5
+25,Tecnologia,Analista de Dados,12831,5,1
+26,Financeiro,Analista Financeiro,3690,3,4
+27,Financeiro,Contador,13992,1,3
+28,Recursos Humanos,Recrutador,4480,1,1
+29,Marketing,Designer,6475,8,1
+30,Marketing,Designer,9602,2,1
+31,Financeiro,Assistente,4684,3,5
+32,Marketing,Designer,6827,2,4
+33,Marketing,Copywriter,6894,3,5
+34,Tecnologia,Analista de Dados,11819,7,4
+35,Financeiro,Analista Financeiro,13757,1,5
+36,Operações,Assistente de Logística,5316,8,5
+37,Financeiro,Analista Financeiro,9354,2,3
+38,Operações,Analista de Processos,10209,3,5
+39,Tecnologia,Analista de Dados,4069,9,2
+40,Recursos Humanos,Analista de DP,8942,7,3
+41,Marketing,Designer,5395,4,5
+42,Tecnologia,Desenvolvedor,6233,5,1
+43,Marketing,Copywriter,7363,2,2
+44,Recursos Humanos,Recrutador,10955,8,2
+45,Recursos Humanos,Recrutador,7514,4,2
+46,Tecnologia,Analista de Dados,5186,9,3
+47,Recursos Humanos,Gerente de RH,6509,5,5
+48,Operações,Supervisor,11306,9,5
+49,Recursos Humanos,Analista de DP,3654,4,1
+50,Marketing,Analista de Mídia,4909,5,1
+51,Marketing,Designer,4284,9,2
+52,Marketing,Designer,11596,8,1
+53,Marketing,Copywriter,11060,3,3
+54,Operações,Analista de Processos,10843,1,5
+55,Financeiro,Assistente,10706,3,2
+56,Tecnologia,Suporte,9096,4,1
+57,Marketing,Analista de Mídia,9301,2,3
+58,Recursos Humanos,Gerente de RH,6306,1,3
+59,Marketing,Designer,4037,7,1
+60,Recursos Humanos,Recrutador,9486,8,5
+61,Recursos Humanos,Analista de DP,5341,7,1
+62,Marketing,Designer,12216,5,2
+63,Operações,Supervisor,10471,1,1
+64,Recursos Humanos,Gerente de RH,9125,7,3
+65,Recursos Humanos,Gerente de RH,6450,7,1
+66,Marketing,Analista de Mídia,11492,9,5
+67,Recursos Humanos,Recrutador,8280,3,4
+68,Recursos Humanos,Gerente de RH,5868,9,1
+69,Marketing,Designer,10155,1,5
+70,Marketing,Analista de Mídia,11673,1,5
+71,Tecnologia,Suporte,7995,4,3
+72,Operações,Analista de Processos,12663,9,5
+73,Operações,Analista de Processos,9502,6,5
+74,Recursos Humanos,Analista de DP,10114,3,5
+75,Operações,Analista de Processos,12858,1,5
+76,Recursos Humanos,Gerente de RH,9419,4,2
+77,Tecnologia,Suporte,13674,9,2
+78,Marketing,Copywriter,4353,3,3
+79,Marketing,Analista de Mídia,7646,9,1
+80,Marketing,Analista de Mídia,7269,7,5
+81,Operações,Analista de Processos,4074,4,1
+82,Tecnologia,Desenvolvedor,4648,3,1
+83,Operações,Assistente de Logística,9793,5,3
+84,Operações,Analista de Processos,9957,5,5
+85,Tecnologia,Analista de Dados,11009,3,5
+86,Tecnologia,Analista de Dados,13407,9,4
+87,Tecnologia,Desenvolvedor,8277,4,1
+88,Tecnologia,Suporte,7354,5,1
+89,Marketing,Copywriter,5991,4,2
+90,Financeiro,Contador,6624,5,4
+91,Financeiro,Contador,9191,7,2
+92,Tecnologia,Suporte,6551,9,2
+93,Financeiro,Assistente,3504,7,2
+94,Financeiro,Contador,8722,5,3
+95,Tecnologia,Analista de Dados,8815,7,3
+96,Financeiro,Analista Financeiro,8369,5,2
+97,Operações,Supervisor,4376,3,4
+98,Recursos Humanos,Recrutador,12683,7,1
+99,Recursos Humanos,Analista de DP,10527,2,4
+100,Tecnologia,Analista de Dados,7642,9,5
+101,Marketing,Analista de Mídia,10466,1,3
+102,Tecnologia,Suporte,10579,6,1
+103,Marketing,Copywriter,11487,7,1
+104,Recursos Humanos,Recrutador,10299,8,5
+105,Tecnologia,Analista de Dados,7965,9,5
+106,Operações,Analista de Processos,4135,2,2
+107,Financeiro,Assistente,5193,2,3
+108,Marketing,Copywriter,13374,5,3
+109,Financeiro,Contador,8252,5,4
+110,Financeiro,Analista Financeiro,11811,6,2
+111,Tecnologia,Suporte,4330,3,2
+112,Financeiro,Analista Financeiro,8677,8,2
+113,Operações,Supervisor,13061,1,2
+114,Financeiro,Contador,12432,6,3
+115,Tecnologia,Suporte,11808,4,3
+116,Operações,Supervisor,9449,1,2
+117,Recursos Humanos,Recrutador,6338,7,4
+118,Financeiro,Assistente,4650,9,1
+119,Tecnologia,Analista de Dados,11060,4,1
+120,Recursos Humanos,Recrutador,5431,4,4
+121,Recursos Humanos,Analista de DP,12704,6,2
+122,Marketing,Designer,5164,3,3
+123,Operações,Supervisor,4581,6,1
+124,Financeiro,Contador,4012,7,5
+125,Tecnologia,Desenvolvedor,11305,3,5
+126,Marketing,Copywriter,8737,7,4
+127,Operações,Assistente de Logística,4059,3,2
+128,Marketing,Analista de Mídia,7172,2,1
+129,Operações,Assistente de Logística,10904,4,2
+130,Operações,Assistente de Logística,6843,8,1
+131,Financeiro,Contador,7570,9,4
+132,Operações,Assistente de Logística,13162,7,4
+133,Marketing,Copywriter,4080,1,5
+134,Operações,Analista de Processos,10504,3,2
+135,Financeiro,Analista Financeiro,13986,9,5
+136,Financeiro,Analista Financeiro,11630,1,2
+137,Marketing,Copywriter,6647,9,5
+138,Recursos Humanos,Gerente de RH,7749,8,3
+139,Recursos Humanos,Analista de DP,5179,1,3
+140,Operações,Analista de Processos,7006,6,3
+141,Tecnologia,Desenvolvedor,10753,5,3
+142,Operações,Supervisor,6244,6,1
+143,Marketing,Designer,12935,5,3
+144,Marketing,Designer,8688,6,4
+145,Marketing,Designer,5641,5,4
+146,Marketing,Analista de Mídia,13957,5,1
+147,Marketing,Copywriter,10117,4,3
+148,Financeiro,Contador,5979,3,3
+149,Recursos Humanos,Gerente de RH,9984,3,3
+150,Marketing,Copywriter,13327,4,5
